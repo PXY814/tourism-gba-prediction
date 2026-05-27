@@ -1,0 +1,10 @@
+pandas==2.0.3
+numpy==1.24.3
+sqlalchemy==2.0.20
+pyodbc==4.0.39
+prophet==1.1.4
+snownlp==0.12.3
+scikit-learn==1.3.0
+folium==0.14.0
+matplotlib==3.7.2
+requests==2.31.0
